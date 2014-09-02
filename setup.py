@@ -29,7 +29,7 @@ setup(
     author=__author_name__,
     author_email=__author_email__,
     license='MIT',
-    py_modules=['openam'],
+    py_modules=['django_openam_auth'],
     url='https://github.com/acgray/django-openam-backend/',
     description='OpenAM authentication backend for django',
     long_description=long_desc,
